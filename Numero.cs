@@ -24,7 +24,7 @@ namespace IDictionaryType
             {
                 DicionarioDeNumeros.Add(incrementa, incrementa * 13);
 
-                incrementa++;//incrementa o número. comentário para teste de push no git
+                incrementa++;
             }
         }
 
